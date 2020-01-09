@@ -1,0 +1,10 @@
+---
+title: "Postdoc life in Paris_VISA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+프랑스에서 포닥 연구원으로 생활하기 위해서 어떻게 보면 가장 우선적으로 해야되는 일은 일하면서 거주할수 있는 "비자"를 받는 것이다. 보통 프랑스에서 비자를 받는 것은 다소 까다롭다고 알려져있으나, 대학 혹은 연구기관의 초청으로 1년 이상의 계약 조건에게 요구되는 "researcher-talent passport long-stay visa"는 상대적으로 그 절차나 요구 서류들이 간편한 것 같다. 
