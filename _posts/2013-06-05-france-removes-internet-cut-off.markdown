@@ -2,6 +2,7 @@
 layout: post
 title:  "OFII procedure in France"
 date:   2020-01-09 02:59:110
+categories: jekyll update
 ---
 
 ## OFII 신청
