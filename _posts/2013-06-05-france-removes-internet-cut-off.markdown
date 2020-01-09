@@ -2,7 +2,6 @@
 layout: post
 title:  "OFII procedure in France"
 date:   2020-01-09 02:59:110
-external-url: http://arstechnica.com/tech-policy/2013/06/france-removes-internet-cut-off-threat-from-its-anti-piracy-law/
 ---
 
 ## OFII 신청
